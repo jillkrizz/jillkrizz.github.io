@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jill Kries, PhD"
 title_separator          : "-"
-name                     : &name "Jill Kries"
-description              : &description "Postdoctoral researcher in Cognitive Neuroscience"
+name                     : &name "Jill Kries, PhD"
+description              : &description "Postdoctoral Researcher in    Cognitive Neuroscience"
 url                      : https://jillkrizz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jillkrizz/jillkrizz.github.io"
@@ -22,9 +22,9 @@ repository               : "jillkrizz/jillkrizz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jill_boston_square.png"
-  name             : "Jill Kries"
-  bio              : "Postdoctoral researcher in Cognitive Neuroscience"
+  avatar           : "jill_boston_square_face.png"
+  name             : "Jill Kries, PhD"
+  bio              : "Postdoctoral Researcher in     Cognitive Neuroscience"
   location         : "Stanford, CA"
   employer         : "Stanford University"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
 
 
   # Social media
-  bluesky          : "https://bsky.app/profile/kriesjill.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "kriesjill.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/jill-kries-380316184
+  linkedin         : "jill-kries-380316184"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

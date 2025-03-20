@@ -6,8 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+My CV can be found [here](../files/CV_Jill_Kries_03_25_updated.pdf).
+
+<!-- 
 
 Education
 ======
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
