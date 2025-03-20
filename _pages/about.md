@@ -15,5 +15,5 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 
 Currently, I am a postdoctoral researcher in the [Gwilliams Lab of Speech Neuroscience](https://gwilliamslab.stanford.edu/) at Stanford University (Dept. of Psychology), where I am advised by Prof. Laura Gwilliams. Previously, I did my PhD in Cognitive Neuroscience at the [Experimental ORL Laboratory](https://gbiomed.kuleuven.be/english/research/50000666/50000672) at KU Leuven in Belgium, advised by Prof. Maaike Vandermosten. Prior to that, I completed my Masters in Neuropsychology at Maastricht University, completing my thesis in the [Brain and Language lab](https://mbic-languagelab.nl/en/researcher/milene-bonte/) with Prof. Milene Bonte and Dr. Joao Correia. 
 
-![Participating in a colleague's EEG experiment in 2018](../images/jill_eeg.png)
-<img src="../images/jill_eeg.png" alt="jill_eeg" width="200"/>
+<!-- ![Participating in a colleague's EEG experiment in 2018](../images/jill_eeg.png) -->
+<img src="../images/jill_eeg.png" alt="jill_eeg" width="250"/>
